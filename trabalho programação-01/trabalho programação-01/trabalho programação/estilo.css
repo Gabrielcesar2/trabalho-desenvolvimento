@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://d3p8qx5u7ootl6.cloudfront.net/f1loop_animation_02640x360px_a5d4e25286.gif);
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+
+}
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1480px;
+    margin: 0 auto;
+    padding: 0 2%;
+    
+}
+.logofia{
+    width: 25%;
+    background-color: rgb(143, 12, 12);
+    left: 10% ;
+}
+.titulo{
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgb(143, 12, 12);
+    width: 50%;
+}
+.f1logo{
+    background-color: rgb(143, 12, 12);
+    width: 25%;
+    text-align: right;
+}
+.vit{
+    width: 60px;
+    text-align: center;
+}
+
+.pts{
+    text-align: center;
+    width: 200px;
+}
+.pds{
+    text-align: center;
+    width: 60px;
+}
+.pilotos{
+    text-align: center;
+    width: 40%;
+    color: dimgrey;
+}
+.pos{
+    width: 70px;
+}
+.tabela1{
+    
+    color: white;
+}
+.summary{
+    color: white;
+    font-size: 40px;
+}
+.tabelageral{
+    right: 60px;
+}
+.posetapas{
+    width: 80px;
+    
+}
